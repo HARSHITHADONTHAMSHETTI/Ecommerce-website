@@ -1,0 +1,13 @@
+{
+  "name": "ecommerce-backend",
+  "version": "1.0.0",
+  "description": "Backend for e-commerce application",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ecommerce-backend": "file:",
+    "express": "^4.17.1"
+  }
+}

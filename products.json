@@ -1,0 +1,73 @@
+{
+  "Footwear": [
+    { "id": 1, "name": "Sneakers", "price": 2000 },
+    { "id": 2, "name": "Sandals", "price": 1500 },
+    { "id": 3, "name": "Loafers", "price": 2500 },
+    { "id": 4, "name": "Boots", "price": 3000 },
+    { "id": 5, "name": "Flip Flops", "price": 800 },
+    { "id": 6, "name": "High Heels", "price": 3500 },
+    { "id": 7, "name": "Ballet Flats", "price": 1200 },
+    { "id": 8, "name": "Running Shoes", "price": 2200 },
+    { "id": 9, "name": "Slides", "price": 900 },
+    { "id": 10, "name": "Formal Shoes", "price": 1800 }
+  ],
+  "Beauty Products": [
+    { "id": 11, "name": "Lipstick", "price": 500 },
+    { "id": 12, "name": "Foundation", "price": 1000 },
+    { "id": 13, "name": "Mascara", "price": 800 },
+    { "id": 14, "name": "Nail Polish", "price": 300 },
+    { "id": 15, "name": "Perfume", "price": 1500 },
+    { "id": 16, "name": "Moisturizer", "price": 700 },
+    { "id": 17, "name": "Face Wash", "price": 600 },
+    { "id": 18, "name": "Sunscreen", "price": 1200 },
+    { "id": 19, "name": "Hair Gel", "price": 400 },
+    { "id": 20, "name": "Shampoo", "price": 500 }
+  ],
+  "Electronics": [
+    { "id": 21, "name": "Smartphone", "price": 20000 },
+    { "id": 22, "name": "Laptop", "price": 50000 },
+    { "id": 23, "name": "Headphones", "price": 3000 },
+    { "id": 24, "name": "Smartwatch", "price": 8000 },
+    { "id": 25, "name": "Camera", "price": 25000 },
+    { "id": 26, "name": "Bluetooth Speaker", "price": 2000 },
+    { "id": 27, "name": "LED TV", "price": 40000 },
+    { "id": 28, "name": "Tablet", "price": 15000 },
+    { "id": 29, "name": "Charger", "price": 1000 },
+    { "id": 30, "name": "Power Bank", "price": 1500 }
+  ],
+  "Home & Kitchen": [
+    { "id": 31, "name": "Blender", "price": 2500 },
+    { "id": 32, "name": "Toaster", "price": 1500 },
+    { "id": 33, "name": "Cookware Set", "price": 5000 },
+    { "id": 34, "name": "Microwave", "price": 8000 },
+    { "id": 35, "name": "Refrigerator", "price": 30000 },
+    { "id": 36, "name": "Dining Table", "price": 12000 },
+    { "id": 37, "name": "Chair", "price": 3000 },
+    { "id": 38, "name": "Bed", "price": 15000 },
+    { "id": 39, "name": "Cushion", "price": 500 },
+    { "id": 40, "name": "Curtains", "price": 1000 }
+  ],
+  "Sports": [
+    { "id": 41, "name": "Football", "price": 3000 },
+    { "id": 42, "name": "Cricket Bat", "price": 2500 },
+    { "id": 43, "name": "Badminton Racket", "price": 1500 },
+    { "id": 44, "name": "Tennis Racket", "price": 3500 },
+    { "id": 45, "name": "Basketball", "price": 2000 },
+    { "id": 46, "name": "Gym Bag", "price": 1000 },
+    { "id": 47, "name": "Yoga Mat", "price": 800 },
+    { "id": 48, "name": "Dumbbells", "price": 3000 },
+    { "id": 49, "name": "Skipping Rope", "price": 500 },
+    { "id": 50, "name": "Swimming Goggles", "price": 1500 }
+  ]
+}
+
+
+
+  
+  
+  
+  
+  
+
+  
+

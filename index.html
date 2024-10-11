@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>E-Commerce Website</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>E-Commerce Website</h1>
+        <input type="text" id="search" placeholder="Search for products..." oninput="searchProducts()">
+    </header>
+    <main>
+        <nav>
+            <ul>
+                <li onclick="filterProducts('Footwear')">Footwear</li>
+                <li onclick="filterProducts('Beauty Products')">Beauty Products</li>
+                <li onclick="filterProducts('Electronics')">Electronics</li>
+                <li onclick="filterProducts('Home & Kitchen')">Home & Kitchen</li>
+                <li onclick="filterProducts('Sports')">Sports</li>
+            </ul>
+        </nav>
+        <section id="product-list"></section>
+        <section id="cart-summary">
+            <div id="cartItems"></div>
+            <div id="totalPrice"></div>
+            <button id="placeOrder" style="display:none;">Place Order</button>
+        </section>
+    </main>
+    <aside>
+        <h2>Add Address</h2>
+        <input type="text" id="address-input" placeholder="Address">
+        <input type="email" id="email-input" placeholder="Email">
+        <input type="text" id="phone-input" placeholder="Phone (+91)">
+        <button onclick="addAddress()">Add Address</button>
+        <div id="address-list"></div>
+    </aside>
+    
+    <div id="orderForm" style="display:none;">
+        <h2>Place Order</h2>
+        <input type="text" id="email" placeholder="Email">
+        <input type="text" id="phone" placeholder="Phone (+91)">
+        <button id="submitOrder">Submit Order</button>
+    </div>
+    
+    <script src="app.js"></script>
+    <script src="cart.js"></script>
+</body>
+</html>
+
+
+
+
+
+
